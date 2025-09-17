@@ -5,10 +5,10 @@ A simple and responsive **Spotify Clone** created using only **HTML** and **CSS*
 ##  Project Structure
 
 ```
-├── index.html
-├── style.css
-├── assets/
-│   ├── images
+|--index.html
+|-- style.css
+├-- assets/
+│   ├-- images
 ```
 
 ## Technologies Used
