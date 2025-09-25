@@ -8,7 +8,7 @@ A simple and responsive **Spotify Clone** created using only **HTML** and **CSS*
 |--index.html
 |-- style.css
 ├-- assets/
-│   ├-- images
+   ├-- images
 ```
 
 ## Technologies Used
